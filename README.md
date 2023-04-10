@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá programadores
 
-<!--
-**codandoem10/codandoem10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Esse espaço foi criado para compartilharmos nossos conhecimentos sobre programação e demais tecnologias de modo a aprendermos mais e mais. Seja muito bem vindo (a)!
 
-Here are some ideas to get you started:
+Linguagens usadas:
+- Python
+- Java
+- C
+- JavaScript
+- Html
+- Css
+- Php
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tecnologias abordadas:** *Bootstrap - Angular - Nodejs - React - Arduino - Docker - VirtuaBox - Azure - Apache - Figma - Vscode - Eclipse - Netbeans - Git - GitHub - Inteligência Artificial*
+
+**Sistemas operacionais:** *Debian - Ubuntu - Kali Linux - Windows*
+
+**Banco de dados:** *MySql - Oracle - SqLite*
+
+Playlists do canal Codando em 10
+
+[Git e GitHub](https://www.youtube.com/playlist?list=PLxjIvZIT3VsRS6lWThhBZ9NAp2fQxCurM)
+
+[Inteligência Artificial](https://www.youtube.com/playlist?list=PLxjIvZIT3VsQGUilJ1A6Oqv86g_FqLlv-)
+
+[Programação](https://www.youtube.com/playlist?list=PLxjIvZIT3VsQGjebcX8BlzEfV1m1aBsk4)
